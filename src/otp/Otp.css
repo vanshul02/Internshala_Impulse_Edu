@@ -1,0 +1,9 @@
+.auth-signup-wrapper i {
+    font-size: 32px;
+    color : black;
+}
+
+.auth-otp {
+    margin : 100px 0;
+    text-align : center;
+}
